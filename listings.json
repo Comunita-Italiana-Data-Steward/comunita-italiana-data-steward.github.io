@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/eventi/index.html",
+    "items": [
+      "/eventi/posts/post-with-code/index.html",
+      "/eventi/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/posts/post-with-code/index.html",
+      "/news/posts/welcome/index.html"
+    ]
+  }
+]

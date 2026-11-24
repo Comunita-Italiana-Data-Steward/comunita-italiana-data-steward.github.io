@@ -2,6 +2,7 @@ project:
   type: website
 execute:
   freeze: auto
+lang: it
 website:
   announcement: 
     icon: warning-circle
@@ -19,7 +20,7 @@ website:
       - chi-siamo.qmd
       - news/index.qmd
       - eventi/index.qmd
-      - text: Zenodo Community
+      - text: Comunità Zenodo
         href: https://zenodo.org/communities/italiads/
         target: _blank
       - icon: github

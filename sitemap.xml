@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://comunita-italiana-data-steward.github.io/eventi/index.html</loc>
-    <lastmod>2026-11-24T10:18:18.591Z</lastmod>
-  </url>
-  <url>
-    <loc>https://comunita-italiana-data-steward.github.io/eventi/posts/post-with-code/index.html</loc>
-    <lastmod>2026-11-24T10:18:18.591Z</lastmod>
+    <loc>https://comunita-italiana-data-steward.github.io/news/index.html</loc>
+    <lastmod>2026-11-24T10:31:01.300Z</lastmod>
   </url>
   <url>
     <loc>https://comunita-italiana-data-steward.github.io/news/posts/welcome/index.html</loc>
-    <lastmod>2026-11-24T10:18:18.593Z</lastmod>
+    <lastmod>2026-11-24T10:31:01.300Z</lastmod>
+  </url>
+  <url>
+    <loc>https://comunita-italiana-data-steward.github.io/eventi/posts/post-with-code/index.html</loc>
+    <lastmod>2026-11-24T10:31:01.300Z</lastmod>
   </url>
   <url>
     <loc>https://comunita-italiana-data-steward.github.io/index.html</loc>
-    <lastmod>2026-11-24T10:18:18.592Z</lastmod>
+    <lastmod>2026-11-24T10:31:01.300Z</lastmod>
   </url>
   <url>
     <loc>https://comunita-italiana-data-steward.github.io/chi-siamo.html</loc>
-    <lastmod>2026-11-24T10:18:18.590Z</lastmod>
-  </url>
-  <url>
-    <loc>https://comunita-italiana-data-steward.github.io/news/posts/post-with-code/index.html</loc>
-    <lastmod>2026-11-24T10:18:18.593Z</lastmod>
-  </url>
-  <url>
-    <loc>https://comunita-italiana-data-steward.github.io/news/index.html</loc>
-    <lastmod>2026-11-24T10:18:18.592Z</lastmod>
+    <lastmod>2026-11-24T10:31:01.299Z</lastmod>
   </url>
   <url>
     <loc>https://comunita-italiana-data-steward.github.io/eventi/posts/welcome/index.html</loc>
-    <lastmod>2026-11-24T10:18:18.591Z</lastmod>
+    <lastmod>2026-11-24T10:31:01.300Z</lastmod>
+  </url>
+  <url>
+    <loc>https://comunita-italiana-data-steward.github.io/eventi/index.html</loc>
+    <lastmod>2026-11-24T10:31:01.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://comunita-italiana-data-steward.github.io/news/posts/post-with-code/index.html</loc>
+    <lastmod>2026-11-24T10:31:01.300Z</lastmod>
   </url>
 </urlset>

@@ -1,9 +1,9 @@
 [
   {
-    "listing": "/eventi/index.html",
+    "listing": "/news/index.html",
     "items": [
-      "/eventi/posts/post-with-code/index.html",
-      "/eventi/posts/welcome/index.html"
+      "/news/posts/post-with-code/index.html",
+      "/news/posts/welcome/index.html"
     ]
   },
   {
@@ -11,10 +11,10 @@
     "items": []
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/eventi/index.html",
     "items": [
-      "/news/posts/post-with-code/index.html",
-      "/news/posts/welcome/index.html"
+      "/eventi/posts/post-with-code/index.html",
+      "/eventi/posts/welcome/index.html"
     ]
   }
 ]

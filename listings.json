@@ -8,7 +8,12 @@
   },
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/news/posts/post-with-code/index.html",
+      "/news/posts/welcome/index.html",
+      "/eventi/posts/post-with-code/index.html",
+      "/eventi/posts/welcome/index.html"
+    ]
   },
   {
     "listing": "/eventi/index.html",

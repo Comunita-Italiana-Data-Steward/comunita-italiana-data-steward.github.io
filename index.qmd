@@ -1,15 +1,35 @@
 ---
 title: "Comunità Italiana Data Stewards"
 listing:
-  contents: posts
-  feed: true
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+  - id: news
+    contents: news/posts
+    feed: true
+    sort: "date desc"
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+  - id: eventi
+    contents: eventi/posts
+    feed: true
+    sort: "date desc"
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
 page-layout: full
 title-block-banner: true
 ---
+
+La “Comunità Italiana Data Steward (CIDS)” riunisce specialiste e specialisti della gestione dei dati della ricerca in Italia, che si riconoscono nel ruolo di Data Steward a prescindere dall’inquadramento ricevuto nell’istituzione a cui afferiscono.
+
+## News
+
+:::{#news}
+:::
+
+## Eventi
 
 

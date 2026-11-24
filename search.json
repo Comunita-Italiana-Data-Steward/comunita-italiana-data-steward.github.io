@@ -4,7 +4,7 @@
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 23, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 20, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\n23 nov 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n20 nov 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNessun risultato"
   },
   {
     "objectID": "news/posts/welcome/index.html",
@@ -32,7 +32,7 @@
     "href": "index.html#news",
     "title": "Comunità Italiana Data Stewards",
     "section": "News",
-    "text": "News\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 23, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 20, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "News\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\n23 nov 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n20 nov 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNessun risultato"
   },
   {
     "objectID": "index.html#eventi",
@@ -49,6 +49,62 @@
     "text": "About this blog"
   },
   {
+    "objectID": "manifesto-cids.html",
+    "href": "manifesto-cids.html",
+    "title": "Manifesto della Comunità Italiana Data Steward (CIDS)",
+    "section": "",
+    "text": "Versione autoritativa: Paschetta, M., Caaldoni, G., Pasquale, V., Solieri, A., Maltese, V., Gualandi, B., Tarallo, A., Spadi, A., Pedonese, G., Marchegiani, F., Osmenaj, E., Pavone, G., Sacchi, S., Ferretti, R., Ildiko Kis, N., & Coppini, S. (2025). Manifesto della Comunità Italiana Data Steward (CIDS). Zenodo. https://zenodo.org/records/15129936"
+  },
+  {
+    "objectID": "manifesto-cids.html#introduzione",
+    "href": "manifesto-cids.html#introduzione",
+    "title": "Manifesto della Comunità Italiana Data Steward (CIDS)",
+    "section": "",
+    "text": "Versione autoritativa: Paschetta, M., Caaldoni, G., Pasquale, V., Solieri, A., Maltese, V., Gualandi, B., Tarallo, A., Spadi, A., Pedonese, G., Marchegiani, F., Osmenaj, E., Pavone, G., Sacchi, S., Ferretti, R., Ildiko Kis, N., & Coppini, S. (2025). Manifesto della Comunità Italiana Data Steward (CIDS). Zenodo. https://zenodo.org/records/15129936"
+  },
+  {
+    "objectID": "manifesto-cids.html#premesse",
+    "href": "manifesto-cids.html#premesse",
+    "title": "Manifesto della Comunità Italiana Data Steward (CIDS)",
+    "section": "1. Premesse",
+    "text": "1. Premesse\nI dati della ricerca sono una delle componenti fondamentali su cui si basano le scoperte scientifiche e per questo devono essere conservati e, quando possibile, resi accessibili pubblicamente, al fine di rendere la scienza aperta, riproducibile, trasparente e affidabile. Inoltre, l’evoluzione tecnologica ha incrementato enormemente la capacità di generare e acquisire dati, associando alla necessità primaria di reperirli, quella di imparare a raccoglierli, gestirli e analizzarli in modo opportuno ed efficace, nel rispetto dei principi etici e legali.\nNella visione della Commissione Europea (ma non solo), i dati sono posti al centro dell’innovazione e della ricerca per poter vincere le grandi sfide del futuro (cambiamento climatico, economia sostenibile, epidemie di massa), grazie anche al recente sviluppo dell’Intelligenza Artificiale.\nIn questo panorama è necessario supportare coloro che fanno ricerca nella produzione di dati quanto più possibile di qualità e machine-readable, ovvero FAIR (Findable, Accessible, Interoperable, Reusable) per l’uomo e per le macchine. Diventa evidente quanto sia fondamentale che le Università e gli Istituti di ricerca si impegnino a formare ed assumere Data Steward e in generale figure professionali competenti nella gestione dei dati della ricerca, considerandole come parte integrante del supporto alla ricerca.\nIn questo contesto internazionale, nell’ambito del tavolo di lavoro ICDI (Italian Computing and Data Infrastructure) e del progetto europeo Skills4EOSC – “Skills for the European Open Science Commons: creating a training ecosystem for Open and FAIR science” nasce la “Comunità Italiana Data Steward”"
+  },
+  {
+    "objectID": "manifesto-cids.html#chi-siamo",
+    "href": "manifesto-cids.html#chi-siamo",
+    "title": "Manifesto della Comunità Italiana Data Steward (CIDS)",
+    "section": "2. Chi siamo",
+    "text": "2. Chi siamo\nLa “Comunità Italiana Data Steward (CIDS)” riunisce specialiste e specialisti della gestione dei dati della ricerca in Italia, che si riconoscono nel ruolo di Data Steward a prescindere dall’inquadramento ricevuto nell’istituzione a cui afferiscono.\nIn questo Manifesto definiamo “Data Steward” “chi possiede ed utilizza nel proprio lavoro le competenze necessarie a gestire e valorizzare i dati della ricerca, per la loro massima fruizione da parte della comunità scientifica e della società, pur tutelando i diritti e gli interessi legittimi di tutti i soggetti coinvolti”1. Inoltre, il Data Steward è una figura di raccordo tra chi conduce la ricerca e chi si occupa di infrastrutture e servizi dedicati ai dati della ricerca.\nNel 2023 ICDI, coordinatore del progetto europeo Skills4EOSC, con la collaborazione di Università di Bologna, GARR e IIT, ha condotto un sondaggio per mappare la presenza di figure professionali a supporto della gestione dei dati nelle Università e nelle Istituzioni di ricerca italiane e per proporre la creazione di un gruppo di condivisione nazionale. La necessità di un confronto tra pari e di formazione specifica, insieme al desiderio di riconoscimento della figura professionale del Data Steward, sono le principali motivazioni che hanno portato alla creazione della CIDS, che si è riunita per la prima volta il 7 novembre 2023 a Roma."
+  },
+  {
+    "objectID": "manifesto-cids.html#scopo-della-comunità",
+    "href": "manifesto-cids.html#scopo-della-comunità",
+    "title": "Manifesto della Comunità Italiana Data Steward (CIDS)",
+    "section": "3. Scopo della comunità",
+    "text": "3. Scopo della comunità\nLa missione della CIDS è supportare, promuovere e valorizzare il ruolo delle e dei Data Steward in Italia, e si impegna nella creazione di una comunità professionale riconosciuta, sostenibile e fondata sulla cooperazione e sulla formazione. La CIDS si propone di mettere a sistema competenze ed esperienze esistenti sul territorio per favorire la diffusione di buone pratiche per una gestione dei dati della ricerca efficace, etica e fondata sui principi FAIR. Con le sue azioni e iniziative la CIDS si impegna affinché il ruolo essenziale di supporto alla gestione dei dati svolto dalle e dai Data Steward nelle Università, nelle Istituzioni e nelle Infrastrutture di ricerca sia riconosciuto, rafforzato e valorizzato.\n\nObiettivi strategici\n\nCreare opportunità di condivisione e sviluppo di nuove competenze\nLa CIDS offre occasioni e strumenti per arricchire il proprio bagaglio professionale. Promuove la creazione di spazi di confronto, sia interni alla comunità sia con altre realtà nazionali e internazionali, favorendo l’acquisizione e il consolidamento di conoscenze specialistiche non sempre disponibili nei percorsi di formazione tradizionali.\n\n\nSupportare l’adozione di buone pratiche per la gestione dei dati della ricerca\nLa CIDS promuove la condivisione e lo scambio di esperienze individuali o di gruppo, soluzioni, strumenti, idee e buone pratiche per l’implementazione dei principi FAIR e della condivisione dei risultati della ricerca nelle diverse discipline, valorizzando esempi concreti provenienti sia dall’interno sia dall’esterno della CIDS.\n\n\nAumentare la consapevolezza del ruolo di Data Steward\nLa CIDS si propone di accrescere la consapevolezza dell’importanza del ruolo delle e dei Data Steward, sia tra coloro che già ricoprono questa funzione rafforzandone l’identità professionale, sia sensibilizzando la comunità scientifica e il pubblico, evidenziandone l’importanza strategica per la creazione di un ecosistema di ricerca più aperto e collaborativo. A tal fine, la CIDS partecipa regolarmente a eventi nazionali ed internazionali per disseminare i suoi valori fondanti, far conoscere e promuovere la figura del Data Steward e presentare la CIDS, i suoi obiettivi e le sue attività."
+  },
+  {
+    "objectID": "manifesto-cids.html#organizzazione-della-cids-e-modalità-di-partecipazione",
+    "href": "manifesto-cids.html#organizzazione-della-cids-e-modalità-di-partecipazione",
+    "title": "Manifesto della Comunità Italiana Data Steward (CIDS)",
+    "section": "4. Organizzazione della CIDS e modalità di partecipazione",
+    "text": "4. Organizzazione della CIDS e modalità di partecipazione\nIn linea con lo spirito che ha caratterizzato la comunità fin dal principio, viene promossa una partecipazione volontaria, attiva, collaborativa, inclusiva e rispettosa nei confronti di tutte e tutti.\nOgni partecipante alla CIDS (come definito nel paragrafo 2, “Chi siamo”) si impegna a prendere parte, sulla base delle proprie possibilità, a livello individuale e a titolo gratuito, alle iniziative organizzate dalla CIDS e/o a proporre nuove attività e temi di interesse.\nSulla base di questi presupposti, i partecipanti possono prendere parte alle attività della CIDS con diversi livelli di coinvolgimento:\n\n– Iscrizione alla mailing list\nColoro che desiderano esclusivamente rimanere aggiornati sulle attività della CIDS e segnalare eventi e attività di interesse comune, possono inviare una richiesta di iscrizione alla mailing list (lista di distribuzione) all’indirizzo data-stewards@lists.icdi.it\n\n\n– Partecipazione agli spazi di lavoro\nColoro che intendono partecipare più attivamente ai lavori della CIDS possono richiedere, tramite la mailing list, l’iscrizione agli spazi di lavoro (workplace) e collaborazione (virtual research environment) adottati. Nella email di richiesta è necessario includere alcune informazioni di base (formazione o titolo di studio, istituzione di affiliazione, ruolo ricoperto all’interno dell’Istituzione, tipo di supporto fornito presso l’Istituzione) utili per compilare una breve “scheda personale” che verrà condivisa con gli altri partecipanti, con lo scopo di creare un registro delle e dei Data Steward attivi all’interno della CIDS. I partecipanti agli spazi di lavoro sono incoraggiati a contribuire, in un’ottica di collaborazione e condivisione, alle attività dei “Gruppi di Lavoro (GdL)” e del “Gruppo di Coordinamento (GdC)”."
+  },
+  {
+    "objectID": "manifesto-cids.html#partecipazione-ai-gruppi-di-lavoro-gdl",
+    "href": "manifesto-cids.html#partecipazione-ai-gruppi-di-lavoro-gdl",
+    "title": "Manifesto della Comunità Italiana Data Steward (CIDS)",
+    "section": "– Partecipazione ai Gruppi di Lavoro (GdL)",
+    "text": "– Partecipazione ai Gruppi di Lavoro (GdL)\nI Gruppi di Lavoro (GdL) portano avanti le azioni della CIDS e ciascun gruppo è focalizzato su una singola attività o iniziativa. I GdL possono essere temporanei o permanenti, richiedere un impegno occasionale o più strutturato sulla base della specifica attività.\nOgni partecipante alla CIDS può proporre la formazione di un GdL o chiedere di entrare a fare parte di un GdL esistente. La costituzione di un nuovo GdL è discussa all’interno del Gruppo di Coordinamento (GdC) prima della sua effettiva attivazione. Ogni GdL deve avere almeno quattro partecipanti ed è coordinato da almeno un chair.\nIl chair è responsabile del coordinamento delle attività del GdL durante l’intera durata e della produzione dei risultati prefissati, che devono essere resi fruibili alla CIDS e, ove possibile, pubblicamente. I chair dei GdL sono automaticamente membri del GdC per tutta la durata del GdL. Ciò comporta la disponibilità a partecipare agli incontri periodici del GdC.\n\n– Partecipazione al Gruppo di Coordinamento (GdC)\nIl Gruppo di Coordinamento (GdC) è il GdL permanente che ha il compito di mantenere una visione d’insieme della Comunità e di coordinare le attività portate avanti dai vari GdL. Il GdC è composto dai chair dei GdL attivi che si assumono la responsabilità di partecipare alle attività di organizzazione e coordinamento della Comunità. Il GdC è guidato da almeno due chair, anche esterni ai GdL, che si candidano su base volontaria e la cui nomina è soggetta all’approvazione dei membri del GdC."
+  },
+  {
+    "objectID": "manifesto-cids.html#footnotes",
+    "href": "manifesto-cids.html#footnotes",
+    "title": "Manifesto della Comunità Italiana Data Steward (CIDS)",
+    "section": "Note",
+    "text": "Note\n\n\nWhyte, A., Green, D., Avanço, K., Di Giorgio, S., Gingold, A., Horton, L., Koteska, B., Kyprianou, K., Prnjat, O., Rauste, P., Schirru, L., Sowinski, C., Torres Ramos, G., van Leersum, N., Sharma, C., Méndez, E., & Lazzeri, E. (2023). D2.1 Catalogue of Open Science Career Profiles - Minimum Viable Skillsets (v1.2). Zenodo. https://doi.org/10.5281/zenodo.8101903↩︎"
+  },
+  {
     "objectID": "eventi/posts/welcome/index.html",
     "href": "eventi/posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -60,7 +116,7 @@
     "href": "eventi/index.html",
     "title": "Eventi",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 23, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 20, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\n23 nov 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n20 nov 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNessun risultato"
   },
   {
     "objectID": "news/posts/post-with-code/index.html",

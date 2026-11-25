@@ -6,35 +6,23 @@ date-modified: 2025-04-09
 
 author:
   - name:
-      given: Mauro
-      family: Paschetta
-    orcid: 0000-0002-3469-3808
-    affiliations:
-      - ref: polito
-  - name:
       given: Giulia
       family: Caldoni
     orcid: 0000-0001-6105-721X
     affiliations:
       - ref: unibo
   - name:
-      given: Valentina
-      family: Pasquale
-    orcid: 0000-0002-4499-9536
+      given: Sara
+      family: Coppini
+    orcid: 0000-0002-6279-3830
     affiliations:
-      - ref: iit
+      - ref: unibo
   - name:
-      given: Andrea
-      family: Solieri
-    orcid: 0000-0002-5825-923X
+      given: Roberta
+      family: Ferretti
+    orcid: 0000-0002-1985-2145
     affiliations:
-      - ref: unimore
-  - name:
-      given: Vincenzo
-      family: Maltese
-    orcid: 0000-0003-3218-1806
-    affiliations:
-      - ref: unitn
+      - ref: cnr-inm
   - name:
       given: Bianca
       family: Gualandi
@@ -42,23 +30,17 @@ author:
     affiliations:
       - ref: unibo
   - name:
-      given: Andrea
-      family: Tarallo
-    orcid: 0000-0002-2749-8588
+      given: Nikolett
+      family: Ildiko Kis
+    orcid: 0009-0001-7202-9377
     affiliations:
-      - ref: cnr
+      - ref: unitn
   - name:
-      given: Alessia
-      family: Spadi
-    orcid: 0000-0002-9670-3426
+      given: Vincenzo
+      family: Maltese
+    orcid: 0000-0003-3218-1806
     affiliations:
-      - ref: cnr
-  - name:
-      given: Giulia
-      family: Pedonese
-    orcid: 0000-0003-3828-0135
-    affiliations:
-      - ref: ilc
+      - ref: unitn
   - name:
       given: Francesca
       family: Marchegiani
@@ -70,13 +52,31 @@ author:
       family: Osmenaj
     orcid: 0000-0002-4300-3012
     affiliations:
-      - ref: cnr
+      - ref: iit
+  - name:
+      given: Mauro
+      family: Paschetta
+    orcid: 0000-0002-3469-3808
+    affiliations:
+      - ref: polito
+  - name:
+      given: Valentina
+      family: Pasquale
+    orcid: 0000-0002-4499-9536
+    affiliations:
+      - ref: iit
   - name:
       given: Gina
       family: Pavone
     orcid: 0000-0003-0087-2151
     affiliations:
-      - ref: cnr
+      - ref: cnr-isti
+  - name:
+      given: Giulia
+      family: Pedonese
+    orcid: 0000-0003-3828-0135
+    affiliations:
+      - ref: cnr-ilc
   - name:
       given: Simone
       family: Sacchi
@@ -84,52 +84,55 @@ author:
     affiliations:
       - ref: eui
   - name:
-      given: Roberta
-      family: Ferretti
-    orcid: 0000-0002-1985-2145
-    affiliation:
-      - ref: cnr
-  - name:
-      given: Nikolett
-      family: Ildiko Kis
-    orcid: 0009-0001-7202-9377
+      given: Andrea
+      family: Solieri
+    orcid: 0000-0002-5825-923X
     affiliations:
-      - ref: unitn
+      - ref: unimore
   - name:
-      given: Sara
-      family: Coppini
-    orcid: 0000-0002-6279-3830
+      given: Alessia
+      family: Spadi
+    orcid: 0000-0002-9670-3426
     affiliations:
-      - ref: unibo
+      - ref: cnr-ovi
+  - name:
+      given: Andrea
+      family: Tarallo
+    orcid: 0000-0002-2749-8588
+    affiliations:
+      - ref: cnr-iret
 
 affiliations:
   - id: unibo
-    name: University of Bologna
+    name: "University of Bologna"
     ror: https://ror.org/01111rn36
+  - id: cnr-inm
+    name: "National Research Council, Institute of Marine Engineering (CNR-INM)"
   - id: unitn
-    name: University of Trento
+    name: "University of Trento"
     ror: https://ror.org/05trd4x28
-  - id: cnr
-    name: National Research Council
-    ror: https://ror.org/04zaypm56
-  - id: polito
-    name: Politecnico di Torino
-    ror: https://ror.org/00bgk9508
+  - id: infn
+    name: "National Institute for Nuclear Physics (INFN)"
   - id: iit
-    name: Italian Institute of Technology
+    name: "Italian Institute of Technology"
     ror: https://ror.org/042t93s57
-  - id: ilc
-    name: Institute for Computational Linguistics "A. Zampolli"
+  - id: polito
+    name: "Politecnico di Torino"
+    ror: https://ror.org/00bgk9508
+  - id: cnr-isti
+    name: "National Research Council, Institute of Information Science and Technologies \"A. Faedo\" (CNR-ISTI)"
+  - id: cnr-ilc
+    name: "National Research Council, Institute for Computational Linguistics \"A. Zampolli\" (CNR-ILC)"
     ror: https://ror.org/028g3pe33
   - id: eui
-    name: European University Institute
+    name: "European University Institute"
   - id: unimore
-    name: University of Modena and Reggio Emilia
+    name: "University of Modena and Reggio Emilia"
     ror: https://ror.org/02d4c4y02
-  - id: ovi
-    name: OVI-CNR
-  - id: infn
-    name: Istituto Nazionale di Fisica Nucleare
+  - id: cnr-ovi
+    name: "National Research Council, Opera del Vocabolario Italiano (CNR-OVI)"
+  - id: cnr-iret
+    name: "National Research Council, Research Institute on Terrestrial Ecosystems (CNR-IRET)"
 
 abstract: |
   Questa è la versione web del Manifesto della Comunità Italiana Data Stewards (CIDS). Nel documento sono contenuti i princìpi e gli obiettivi della Comunità e viene illustrata l'organizzazione interna. Il documento è il frutto di un processo di scrittura è durato diversi mesi, che ha visto coinvolti tutti i membri del gruppo di coordinamento della Comunità e che ha previsto un periodo di apertura di due settimane del documento a tutta la Comunità per raccogliere commenti e osservazioni. 
@@ -154,6 +157,7 @@ citation:
   issued: 2025-03-31
   doi: 10.5281/zenodo.15129936
   url: https://zenodo.org/records/15129936
+csl: apa.csl
 
 other-links:
   - text: Zenodo record
@@ -164,10 +168,8 @@ other-links:
     href: https://zenodo.org/communities/italiads/
 ---
 
-## Introduzione
-
 **Versione autoritativa**: 
-Paschetta, M., Caaldoni, G., Pasquale, V., Solieri, A., Maltese, V., Gualandi, B., Tarallo, A., Spadi, A., Pedonese, G., Marchegiani, F., Osmenaj, E., Pavone, G., Sacchi, S., Ferretti, R., Ildiko Kis, N., & Coppini, S. (2025). Manifesto della Comunità Italiana Data Steward (CIDS). Zenodo. [https://zenodo.org/records/15129936](https://zenodo.org/records/15129936)
+Caldoni, G., Coppini, S., Ferretti, R., Gualandi, B., Ildiko Kis, N., Maltese, V., Marchegiani, F., Osmenaj, E., Paschetta, M., Pasquale, V., Pavone, G., Pedonese, G., Sacchi, S., Solieri, A., Spadi, A., & Tarallo, A. (2025). Manifesto della Comunità Italiana Data Steward (CIDS). Zenodo. [https://zenodo.org/records/15129936](https://zenodo.org/records/15129936)
 
 ## 1. Premesse
 
